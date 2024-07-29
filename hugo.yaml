@@ -1,7 +1,7 @@
-baseURL: https://hugo-toha.github.io
+baseURL: https://sathishkube.com
 
 languageCode: bn
-title: "Sathish's Blog"
+title: "Sathish Kumar's Blog"
 
 # Use Hugo modules to add theme
 module:
@@ -23,7 +23,7 @@ languages:
   en:
     languageCode: en
     languageName: English
-    title: "Sathish's Blog"
+    title: "Sathish Kumar's Blog"
     weight: 1
   bn:
     languageCode: bn
@@ -65,7 +65,7 @@ params:
   logo:
     main: /images/site/main-logo.png
     inverted: /images/site/inverted-logo.png
-    favicon: /images/site/favicon.png
+    favicon: /images/site/sathish_kube_logo.png
 
   # GitHub repo of your site
   gitRepo: https://github.com/satrox28/sathishkube
