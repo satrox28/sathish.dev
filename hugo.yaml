@@ -1,7 +1,5 @@
-baseURL: https://hugo-toha.github.io
+baseURL: https://sathishkube.com
 
-languageCode: bn
-title: "Sathish Kumar"
 
 # Use Hugo modules to add theme
 module:
@@ -54,14 +52,14 @@ enableEmoji: true
 # Site parameters
 params:
   # Background image of the landing page
-  background: /images/site/background.jpg
+  background: /images/site/kubernetes_background.jpg
 
   # Provide logos for your site. The inverted logo will be used in the initial
   # transparent navbar and the main logo will be used in the non-transparent navbar.
   logo:
     main: /images/site/main-logo.png
     inverted: /images/site/sathish_kube_logo.png
-    favicon: /images/site/favicon.png
+    favicon: /images/site/sathish_kube_logo.png
 
   # GitHub repo of your site
   gitRepo: https://github.com/satrox28/sathishkube
@@ -102,7 +100,7 @@ params:
 
     # Enable & configure "Notes" features
     notes:
-      enable: true
+      enable: false
 
     # Enable comment feature. There, should be only one of them.
     comment:
