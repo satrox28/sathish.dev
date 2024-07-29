@@ -26,36 +26,36 @@ summary: 'I am a passionate software engineer with x years of working experience
 socialLinks:
 - name: Email
   icon: "fas fa-envelope"
-  url: "example@gmail.com"
+  url: "satcse88@gmail.com"
 
 - name: Github
   icon: "fab fa-github"
-  url: "https://www.github.com/example"
+  url: "https://www.github.com/satrox28"
 
 - name: Stackoverflow
   icon: "fab fa-stack-overflow"
-  url: "#"
+  url: "https://stackoverflow.com/users/9806196/sathish-kumar"
 
 - name: LinkedIn
   icon: "fab fa-linkedin"
-  url: "#"
+  url: "https://www.linkedin.com/in/v-sathish-kumar/"
 
-- name: Twitter
+- name: X (formerly Twitter)
   icon: "fab fa-twitter"
   url: "#"
 
-- name: Facebook
-  icon: "fab fa-facebook"
-  url: "#"
+# - name: Facebook
+#   icon: "fab fa-facebook"
+#   url: "#"
 
-- name: Mastadon
-  icon: "fab fa-mastodon"
-  url: "#"
-  rel: "me noopener"
+# - name: Mastadon
+#   icon: "fab fa-mastodon"
+#   url: "#"
+#   rel: "me noopener"
 
-- name: ResearchGate
+- name: DevOpsCloudJunction
   icon: "fab fa-researchgate"
-  url: "https://www.researchgate.net/profile/john-doe"
+  url: "https://devopscloudjunction.com"
 
 # You can put custom buttons to link your relevant resources.
 # For example, you can put link for your resume.
