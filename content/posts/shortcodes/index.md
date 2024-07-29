@@ -153,14 +153,14 @@ graph LR;
 sequenceDiagram
     participant Alice
     participant Bob
-    Alice->>John: Hello John, how are you?
+    Alice->>Sathish: Hello Sathish, how are you?
     loop Healthcheck
-        John->>John: Fight against hypochondria
+        Sathish->>Sathish: Fight against hypochondria
     end
-    Note right of John: Rational thoughts <br/>prevail!
-    John-->>Alice: Great!
-    John->>Bob: How about you?
-    Bob-->>John: Jolly good!
+    Note right of Sathish: Rational thoughts <br/>prevail!
+    Sathish-->>Alice: Great!
+    Sathish->>Bob: How about you?
+    Bob-->>Sathish: Jolly good!
 {{< /mermaid >}}
 
 **Gantt diagram:**

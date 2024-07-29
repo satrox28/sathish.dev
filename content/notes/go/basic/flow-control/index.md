@@ -60,7 +60,7 @@ for count := 0; count <= 10; count++ {
 ```
 
 ```go
-entry := []string{"Jack","John","Jones"}
+entry := []string{"Jack","Sathish","Jones"}
 for i, val := range entry {
   fmt.Printf("At position %d, the character %s is present\n", i, val)
 ```
