@@ -1,7 +1,7 @@
 # Copyright Notice
-copyright: ©sathishkube 2024 Copyright.
+copyright: ©SathishKube 2024 Copyright.
 
-# # A disclaimer notice for the footer. Make sure you have set "params.footer.disclaimer.enable: true" in your `config.yaml` file.
+# A disclaimer notice for the footer. Make sure you have set "params.footer.disclaimer.enable: true" in your `config.yaml` file.
 # disclaimer: "This theme is under MIT license. So, you can use it for non-commercial, commercial, or private uses.
 # You can modify or distribute the theme without requiring any permission from the theme author.
 # However, the theme author does not provide any warranty or takes any liability for any issue with the theme."
@@ -15,14 +15,14 @@ customMenus:
 - name: Docs
   url: https://toha-guides.netlify.app/posts/
   # specify whether to hide the menu item from top navbar or not.
-  hideFromNavbar: false
+  hideFromNavbar: true
   # specify whether to show the menu item in footer or not.
   # if you set it to true, make sure you have set `footer.navigation.customMenus: true` in your config.yaml
   showOnFooter: false
 
 # Specify OpenGraph Headers
 openGraph:
-  title: Sathish's Blog
+  title: Sathish Kumar
   type: website
   description: Portfolio and personal blog of Sathish Kumar.
   image: images/author/john.png

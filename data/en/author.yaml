@@ -1,6 +1,6 @@
 # some information about you
-name: "Sathish Kumar"
-nickname: "Sathish Kumar"
+name: "Sathish Kumar Venkatesan"
+nickname: "Sathish"
 # greeting message before your name. it will default to "Hi! I am" if not provided
 greeting: "Hi, I am"
 image: "images/author/john.png"
@@ -10,14 +10,15 @@ contactInfo:
   phone: "+0123456789"
   github: satrox28
   linkedin: v-sathish-kumar
+  researchgate: devopscloudjunction
 
 # some summary about what you do
 summary:
   - I am a Cloud Engineer
   - I am a Site Reliability Engineer
-  - I am a Devops Engineer
   - I am a Developer
+  - I am a Devops
   - I am a System Administrator
-  - I love servers
+  - I love Kubernetes
   - I work on open-source projects
   - I love to work with some fun projects
