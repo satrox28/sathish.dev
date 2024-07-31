@@ -2,21 +2,109 @@
 section:
   name: Accomplishments
   id: accomplishments
-  enable: false
+  enable: true
   weight: 9
   showOnNavbar: true
   # Can optionally hide the title in sections
-  # hideTitle: true
+  hideTitle: false
 
 
 # Your accomplishments
 accomplishments:
-- name: Linux Foundation System Administrator
-  timeline: "March 2018 - March 2019"
+- name: VMware Certified Professional 6 – Data Center Virtualization
+  #timeline: "March 2017 - March 2018"
   organization:
-    name: Linux Foundation
-    url: https://www.linuxfoundation.org
-  courseOverview: This course helps to understand the key concepts such as networking, storage, security, maintenance, logging and monitoring, application lifecycle, troubleshooting, API object primitives etc. It also help to grow the ability to establish basic use-cases for end users.
-  certificateURL: "https://example.com"
+    name: VMWare
+    url: https://www.vmware.com/education-services/certification/vcp6-dcv.html
+  courseOverview: The VCP6-DCV certification validates that a badge earner can administer and troubleshoot vSphere V6 compute infrastructures.
+  certificateURL: "https://www.credly.com/badges/290258d8-86b1-43fc-8bcd-d8b9a9a6ae1f"
+
+- name: "CKA: Certified Kubernetes Administrator"
+  #timeline: "March 2017 - March 2018"
+  organization:
+    name: The Linux Foundation
+    url: https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/
+  courseOverview: The CKA was created by the Linux Foundation and the Cloud Native Computing Foundation (CNCF) as a part of their ongoing effort to help develop the Kubernetes ecosystem. The exam is online, proctored, performance-based test that requires solving multiple tasks from a command line running Kubernetes.
+  certificateURL: "https://www.credly.com/badges/c4391610-6189-4707-bfed-ad89c391c3b3"
+
+- name: "CKS: Certified Kubernetes Security Specialist"
+  #timeline: "March 2017 - March 2018"
+  organization:
+    name: The Linux Foundation
+    url: https://training.linuxfoundation.org/certification/certified-kubernetes-security-specialist/
+  courseOverview: The Certified Kubernetes Security Specialist (CKS) program provides assurance that a CKS has the skills, knowledge, and competence on a broad range of best practices for securing container-based applications and Kubernetes platforms during build, deployment and runtime. CKA certification is required to sit for this exam.
+  certificateURL: "https://www.credly.com/badges/22b742f1-8c66-49bd-acc2-5ee72f2f344e"
+
+- name: "CKAD: Certified Kubernetes Application Developer"
+  #timeline: "March 2017 - March 2018"
+  organization:
+    name: The Linux Foundation
+    url: https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/
+  courseOverview: The Certified Kubernetes Application Developer (CKAD) exam certifies that candidates can design, build and deploy cloud-native applications for Kubernetes.
+  certificateURL: "https://www.credly.com/badges/22b742f1-8c66-49bd-acc2-5ee72f2f344e"
+
+- name: "KCNA: Kubernetes and Cloud Native Associate"
+  #timeline: "March 2017 - March 2018"
+  organization:
+    name: The Linux Foundation
+    url: https://training.linuxfoundation.org/certification/kubernetes-cloud-native-associate/
+  courseOverview: The Kubernetes and Cloud Native Associate (KCNA) exam demonstrates a user’s foundational knowledge and skills in Kubernetes and the wider cloud native ecosystem.
+  certificateURL: "https://www.credly.com/badges/fa438b78-619e-4496-9dfd-61209b772670"
+
+- name: "KCSA: Kubernetes and Cloud Native Security Associate"
+  #timeline: "March 2017 - March 2018"
+  organization:
+    name: The Linux Foundation
+    url: https://training.linuxfoundation.org/certification/kubernetes-and-cloud-native-security-associate-kcsa/
+  courseOverview: The Kubernetes and Cloud Native Security Associate (KCSA) exam demonstrates a user’s understanding of the baseline security configuration of Kubernetes clusters to meet compliance objectives, including the ability to harden security controls, test and monitor the security, and participate in assessing security threats and vulnerabilities.
+  certificateURL: "https://www.credly.com/badges/22b742f1-8c66-49bd-acc2-5ee72f2f344ehttps://www.credly.com/badges/c34220f6-138d-4a1c-a585-5793663afbda"
+
+- name: "Kubestronaut"
+  #timeline: "March 2017 - March 2018"
+  organization:
+    name: The Linux Foundation
+    url: https://www.cncf.io/training/kubestronaut/
+  courseOverview: "Kubestronauts are people who showed exemplary Kubernetes knowledge by passing all five of CNCF’s Kubernetes-related certifications: Certified Kubernetes Administrator (CKA), Certified Kubernetes Application Developer (CKAD), Certified Kubernetes Security Specialist (CKS), Kubernetes and Cloud Native Associate (KCNA) and Kubernetes and Cloud Security Associate (KCSA)."
+  certificateURL: "https://www.credly.com/badges/ff252679-2a0b-4675-bfde-4fa669bdda67"
+
+- name: Fundamentals for Istio
+  #timeline: "March 2017 - March 2018"
+  organization:
+    name: Solo.io
+    url: https://www.vmware.com/education-services/certification/vcp6-dcv.html
+  courseOverview: Istio is the most popular service mesh deployed into production across the cloud-native ecosystem. It provides the foundational pieces to implement zero-trust networking, get deeper observability into a distributed system, and smart routing control for safer software releases.
+  certificateURL: "https://www.credly.com/badges/f1dcc420-3adc-475f-88da-27a94fdcb709"
+
+- name: Intermediate for Istio
+  #timeline: "March 2017 - March 2018"
+  organization:
+    name: Solo.io
+    url: https://www.vmware.com/education-services/certification/vcp6-dcv.html
+  courseOverview: This credential, by Solo.io, certifies that recipients possess the essential skills to deploy Istio, configure it, debug it, secure it and operationalize it for their organization.
+  certificateURL: "https://www.credly.com/badges/613672ce-aada-4955-bff9-eccaea9a3380"
+
+- name: Expert for Istio
+  #timeline: "March 2017 - March 2018"
+  organization:
+    name: Solo.io
+    url: https://www.vmware.com/education-services/certification/vcp6-dcv.html
+  courseOverview: This credential, by Solo.io, certifies that you possess the essential skills to use Istio in more advanced scenarios including tenancy, PKI integration, and other workflows for your organization.
+  certificateURL: "https://www.credly.com/badges/bbb7ec0b-44ac-429e-8bb7-3a93a6a822cb"
+
+- name: Fundamentals for Istio Ambient Mesh
+  #timeline: "March 2017 - March 2018"
+  organization:
+    name: Solo.io
+    url: https://www.vmware.com/education-services/certification/vcp6-dcv.html
+  courseOverview: Istio Ambient Mesh implements a “sidecarless” architecture which is transparent to the workloads in the mesh. This approach has a number of benefits including incremental adoption, improved operations and more. 
+  certificateURL: "https://www.credly.com/badges/8eff87d1-1eb7-42ce-824c-b0f47640e48d"
+
+- name: Fundamentals for Envoy
+  #timeline: "March 2017 - March 2018"
+  organization:
+    name: Solo.io
+    url: https://www.vmware.com/education-services/certification/vcp6-dcv.html
+  courseOverview: Envoy Proxy is a foundational layer for many of the innovations propelling the cloud-native community, including service meshes and cloud-native API gateways. But many engineers understand Envoy only as a black-box, hidden by simplifying levels of abstraction.
+  certificateURL: "https://www.credly.com/badges/c2ea2227-2e19-4472-95e3-cb96219819b6"
  
 
