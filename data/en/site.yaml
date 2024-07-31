@@ -7,7 +7,7 @@ copyright: ©SathishKube 2024 Copyright.
 # However, the theme author does not provide any warranty or takes any liability for any issue with the theme."
 
 # Meta description for your site.  This will help the search engines to find your site.
-description: Portfolio and personal blog of Sathish Kumar.
+description: Portfolio of Sathish Kumar.
 
 # specify the list of custom menus that you want to show in the top navbar.
 # they will be separated by a divider from the main menus.
@@ -24,6 +24,6 @@ customMenus:
 openGraph:
   title: Sathish Kumar
   type: website
-  description: Portfolio and personal blog of Sathish Kumar.
-  image: images/author/john.png
+  description: Portfolio of Sathish Kumar.
+  image: images/author/Sathish.jpg
   url: https://sathishkube.com
