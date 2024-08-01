@@ -41,7 +41,7 @@ accomplishments:
     name: The Linux Foundation
     url: https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/
   courseOverview: The Certified Kubernetes Application Developer (CKAD) exam certifies that candidates can design, build and deploy cloud-native applications for Kubernetes.
-  certificateURL: "https://www.credly.com/badges/22b742f1-8c66-49bd-acc2-5ee72f2f344e"
+  certificateURL: "https://www.credly.com/badges/5ad9ad85-6227-433a-8764-e7fc3f414659"
 
 - name: "KCNA: Kubernetes and Cloud Native Associate"
   #timeline: "March 2017 - March 2018"
@@ -57,7 +57,7 @@ accomplishments:
     name: The Linux Foundation
     url: https://training.linuxfoundation.org/certification/kubernetes-and-cloud-native-security-associate-kcsa/
   courseOverview: The Kubernetes and Cloud Native Security Associate (KCSA) exam demonstrates a user’s understanding of the baseline security configuration of Kubernetes clusters to meet compliance objectives, including the ability to harden security controls, test and monitor the security, and participate in assessing security threats and vulnerabilities.
-  certificateURL: "https://www.credly.com/badges/22b742f1-8c66-49bd-acc2-5ee72f2f344ehttps://www.credly.com/badges/c34220f6-138d-4a1c-a585-5793663afbda"
+  certificateURL: "https://www.credly.com/badges/c34220f6-138d-4a1c-a585-5793663afbda"
 
 - name: "Kubestronaut"
   #timeline: "March 2017 - March 2018"
