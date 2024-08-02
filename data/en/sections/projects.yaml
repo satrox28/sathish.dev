@@ -55,6 +55,15 @@ projects:
   summary: View GitLab pipelines, merge requests, languages and contributors.
   tags: ["hobby", "professional", "backstage", "gitlab"]
 
+- name: Covid-19 Vaccine Appointment
+  logo: /images/sections/projects/covid-19-green.jpg
+  role: Contributor
+  timeline: "Jun 2021 - Jun 2021"
+  repo: https://github.com/satrox28/covid-19-vaccine-appointment
+  #url: ""
+  summary: Notify the end users about the available covid-19 vaccine appointment
+  tags: ["hobby", "covid-19", "vaccine"]
+
 # - name: Toha
 #   logo: /images/sections/projects/toha.png
 #   role: Owner
