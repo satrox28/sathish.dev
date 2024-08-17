@@ -1,4 +1,4 @@
-# sathishkube.com
-The code files for sathishkube.com
+# sathish.dev
+The code files for sathish.dev
 
 

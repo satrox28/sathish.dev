@@ -13,7 +13,7 @@ description: Portfolio of Sathish Kumar.
 # they will be separated by a divider from the main menus.
 customMenus:
 - name: Docs
-  url: https://sathishkube.com/posts/
+  url: https://sathish.dev/posts/
   # specify whether to hide the menu item from top navbar or not.
   hideFromNavbar: true
   # specify whether to show the menu item in footer or not.
@@ -26,4 +26,4 @@ openGraph:
   type: website
   description: Portfolio of Sathish Kumar.
   image: images/author/Sathish.jpg
-  url: https://sathishkube.com
+  url: https://sathish.dev
