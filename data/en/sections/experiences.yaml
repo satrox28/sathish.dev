@@ -39,13 +39,13 @@ experiences:
     end: Oct 2022
   - designation: Systems Engineer (DevOps/Cloud Engineer)
     start: Oct 2019
-    end: Nov 2015
+    end: Oct 2021
 
 
 - company:
     name: LifeFitness
     url: "https://www.lifefitness.com/"
-    location: Canada
+    location: Singapore
     logo: /images/sections/experiences/LifeFitness.svg
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/experiences/company1.jpg
