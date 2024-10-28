@@ -62,7 +62,7 @@ params:
     favicon: /images/site/sathish_kube_logo.png
 
   # GitHub repo of your site
-  gitRepo: https://github.com/satrox28/sathishkube
+  gitRepo: https://github.com/satrox28/sathish.dev
   # Default branch of your Git repo
   gitBranch: main
 
